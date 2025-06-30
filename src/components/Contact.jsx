@@ -38,14 +38,14 @@ const Contact = () => {
 		<h2>Where to Find Us</h2>
 		
 		<div>
-		 <h3>Visit Our Bar</h3>
-		 <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+		 <h3>Visit Our Shop</h3>
+		 <p>456, Kothapeta. #404, Punganur, 517247</p>
 		</div>
 		
 		<div>
 		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
-		 <p>hello@jsmcocktail.com</p>
+		 <p>(+91) 8328505244</p>
+		 <p>kondurupandu2434@gmail.com</p>
 		</div>
 		
 		<div>

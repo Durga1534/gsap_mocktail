@@ -28,7 +28,7 @@ const cocktailLists = [
 	name: "Caten Malbee",
 	country: "AU",
 	detail: "Battle",
-	price: "$49",
+	price: "$16.5",
  },
  {
 	name: "Rhino Pale Ale",
@@ -40,7 +40,7 @@ const cocktailLists = [
 	name: "Irish Guinness",
 	country: "IE",
 	detail: "600 ml",
-	price: "$29",
+	price: "$19",
  },
 ];
 
@@ -49,25 +49,25 @@ const mockTailLists = [
 	name: "Tropical Bloom",
 	country: "US",
 	detail: "Battle",
-	price: "$10",
+	price: "$12",
  },
  {
 	name: "Passionfruit Mint",
 	country: "US",
 	detail: "Battle",
-	price: "$49",
+	price: "$15.75",
  },
  {
 	name: "Citrus Glow",
 	country: "CA",
 	detail: "750 ml",
-	price: "$20",
+	price: "$10",
  },
  {
-	name: "Lavender Fizz",
+	name: "Fizzi Mojito",
 	country: "IE",
 	detail: "600 ml",
-	price: "$29",
+	price: "$9.5",
  },
 ];
 
@@ -102,18 +102,18 @@ const goodLists = [
 
 const storeInfo = {
  heading: "Where to Find Us",
- address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+ address: "456, Kothapeta. #404, Punganur, 517247",
  contact: {
-	phone: "(555) 987-6543",
-	email: "hello@jsmcocktail.com",
+	phone: "(+91) 8328505244",
+	email: "kondurupandu2434@gmail.com",
  },
 };
 
 const openingHours = [
- { day: "Mon–Thu", time: "11:00am – 12am" },
- { day: "Fri", time: "11:00am – 2am" },
- { day: "Sat", time: "9:00am – 2am" },
- { day: "Sun", time: "9:00am – 1am" },
+ { day: "Mon–Thu", time: "10:00am – 12am" },
+ { day: "Fri", time: "11:00am – 2pm" },
+ { day: "Sat", time: "9:00am – 2pm" },
+ { day: "Sun", time: "9:00am – 2pm" },
 ];
 
 const socials = [
@@ -153,7 +153,7 @@ const allCocktails = [
  },
  {
 	id: 3,
-	name: "Violet Breeze",
+	name: "Fizzi Mojito",
 	image: "/images/drink3.png",
 	title: "Simple Ingredients, Bold Flavor",
 	description:
